@@ -1,3 +1,4 @@
 * S32K344学习笔记
 ** 学习笔记
    - [[https://blog.csdn.net/grey_csdn/article/details/135440156][1872_S32K344 MCU基本信息了解]]
+   - [[https://blog.csdn.net/grey_csdn/article/details/135489420][1881_S32K344开发工具以及MCAL软件安装]]
